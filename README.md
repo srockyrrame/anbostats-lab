@@ -1,2 +1,14 @@
 # anbostats-lab
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
